@@ -17,4 +17,4 @@
 ![ShutDownPC](https://user-images.githubusercontent.com/85709371/145544374-beec0234-2abe-4e09-bf2a-d5ce2c010c49.jpg)
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/thevkrant)
